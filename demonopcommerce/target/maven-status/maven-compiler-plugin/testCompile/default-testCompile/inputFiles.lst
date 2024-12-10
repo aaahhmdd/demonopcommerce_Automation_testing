@@ -1,0 +1,13 @@
+E:\demonopcommerce\src\test\java\org\example\Pages\P01_RegisterPage.java
+E:\demonopcommerce\src\test\java\org\example\Pages\P02_login.java
+E:\demonopcommerce\src\test\java\org\example\Pages\P03_homePage.java
+E:\demonopcommerce\src\test\java\org\example\Runners\testRunner.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D01_Registration.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D02_loginStepDef.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D03_currenciesStepDef.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D04_searchStepDef.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D05_hoverCategoriesStepDef.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D06_homeSlidersStepDef.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D07_followUsStepDef.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\D08_WishlistStepDef.java
+E:\demonopcommerce\src\test\java\org\example\StepDefinitions\Hooks.java
