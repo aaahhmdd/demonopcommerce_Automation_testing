@@ -22,17 +22,8 @@ This project is an end-to-end automation test suite for [nopCommerce](https://de
 - ExtentReports / Cucumber HTML Reports
 
 ## 🏗️ Project Structure
-src
-├── main
-│ └── resources
-│ └── features (F01_Register.feature, etc.)
-├── test
-│ └── java
-│ └── org.example
-│ ├── pages (P01_Register.java, etc.)
-│ ├── stepDefs (D01_registerStepDef.java, etc.)
-│ └── runners
-└── Hooks.java
+![image](https://github.com/user-attachments/assets/a4a538da-7cd9-40da-beee-c793e289e1c0)
+
 
 ## ✅ Key Highlights
 - 40+ scenarios across 8 core features
